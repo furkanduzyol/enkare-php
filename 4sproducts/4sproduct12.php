@@ -149,13 +149,13 @@ display: block;
             </div>
             <div class="single-pro-details">
                 <h6><a href="../4takımpage1.php" style="text-decoration: none; color: black;">Mağaza</a> / <a href="../4takımpage1.php" style="text-decoration: none; color: black;">4 Kişilik İç Mekan Takımlar</a></h6>
-                <h4>Elisa Masa Sandalye Takımı, 4 Kişilik Mutfak Masası, Teddy Sandalye, Yuvarlak Mdf Masa, 90 X 90</h4>
+                <h4>Elisa Masa Sandalye Takımı</h4>
                 <h2 class="price">8.900,00 TL</h2>
                 <<input type="number" id="quantity-12" value="1"> <!-- Input field for quantity -->
                 <button class="normal addCart" onclick="handleAddToCart(12)">Sepete Ekle</button>
                 
                 <h4>Ürün Açıklaması:</h4>
-                <span>Enkare Elisa Takım 4 Sandalye 1 Masadan oluşmaktadır. <br>
+                <span>Modern ve şık bir dokunuş: Elisa masa sandalye takımı ile yaşam alanlarınızı baştan yaratın. Beyaz yuvarlak masa ve siyah metal ayaklı sandalyeler, sade zarafeti ve güçlü kontrastı bir araya getiriyor. Elisa, minimalizm ve fonksiyonelliği mükemmel bir uyumla sunuyor. <br>
 
                      <strong>Masa;</strong> <br>
                     
