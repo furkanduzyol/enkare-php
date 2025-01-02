@@ -149,13 +149,13 @@ display: block;
             </div>
             <div class="single-pro-details">
                 <h6><a href="../4takımpage1.php" style="text-decoration: none; color: black;">Mağaza</a> / <a href="../6takımpage1.php" style="text-decoration: none; color: black;">6 Kişilik İç Mekan Takımlar</a></h6>
-                <h4>Beyaz Elisa Masa Sandalye Takımı, 4 Kişilik Mutfak Masası, Teddy Sandalye, Yuvarlak Mdf Masa, 90 X 90</h4>
+                <h4>X Ayaklı Gloss Masa & Zen Sandalye</h4>
                 <h2 class="price">8.900,00 TL</h2>
                 <input type="number" id="quantity-44" value="1"> <!-- Input field for quantity -->
                 <button class="normal addCart" onclick="handleAddToCart(44)">Sepete Ekle</button>
                 
                 <h4>Ürün Açıklaması:</h4>
-                <span>Enkare Elisa Takım 4 Sandalye 1 Masadan oluşmaktadır. <br>
+                <span>💫 Enkarehome'dan şıklığı ve konforu buluşturan X Ayaklı Gloss Masa ve Zen Sandalye takımıyla tanışın! Metal iskeleti ve keten kumaşıyla hem dayanıklı hem de şık bir seçenek sunuyoruz. X Ayaklı masa, çift kanat açılabilir özelliğiyle fonksiyonel bir tasarıma sahip. Ev dekorasyonunuzda modern bir dokunuş için Enkarehome'u tercih edin! 🏡🩶 <br>
 
                      <strong>Masa;</strong> <br>
                     
