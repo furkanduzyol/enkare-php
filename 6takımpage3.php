@@ -37,7 +37,7 @@ else{
 /* Style for the dropdown container */
 .user-dropdown {
 position: relative;
-}
+}  
 
 /* Initially hide the dropdown menu */
 .dropdown-menu {
