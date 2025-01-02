@@ -8,7 +8,7 @@ if(isset($_SESSION["kullaniciadi"])){
     echo "Email adresiniz: ".$_SESSION["email"];
     echo "<br>";
     echo "<a href='cikis.php'>Çıkış yap</a>";
-}
+}  
 else{
     echo "Giriş yapmadınız.";
     echo "<br>";
