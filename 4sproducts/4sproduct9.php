@@ -149,13 +149,13 @@ display: block;
             </div>
             <div class="single-pro-details">
                 <h6><a href="../4takımpage1.php" style="text-decoration: none; color: black;">Mağaza</a> / <a href="../4takımpage1.php" style="text-decoration: none; color: black;">4 Kişilik İç Mekan Takımlar</a></h6>
-                <h4>Elisa Masa Sandalye Takımı, 4 Kişilik Mutfak Masası, Teddy Sandalye, Yuvarlak Mdf Masa, 90 X 90</h4>
+                <h4>Bergama Masa & Enkare Tonet Sandalye</h4>
                 <h2 class="price">8.900,00 TL</h2>
                 <input type="number" id="quantity-9" value="1"> <!-- Input field for quantity -->
                 <button class="normal addCart" onclick="handleAddToCart(9)">Sepete Ekle</button>
                 
                 <h4>Ürün Açıklaması:</h4>
-                <span>Enkare Elisa Takım 4 Sandalye 1 Masadan oluşmaktadır. <br>
+                <span>Bergama Masa’nın zarif tasarımı, Enkare Tonet sandalyelerin modern çizgileriyle tamamlanıyor. Ahşap görünümlü masa ve deri oturumlu sandalyeler, evinize sofistike bir hava katıyor <br>
 
                      <strong>Masa;</strong> <br>
                     
