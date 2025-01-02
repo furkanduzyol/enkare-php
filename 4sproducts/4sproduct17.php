@@ -149,13 +149,21 @@ display: block;
             </div>
             <div class="single-pro-details">
                 <h6><a href="../4takımpage1.php" style="text-decoration: none; color: black;">Mağaza</a> / <a href="../4takımpage1.php" style="text-decoration: none; color: black;">4 Kişilik İç Mekan Takımlar</a></h6>
-                <h4>Elisa Masa Sandalye Takımı, 4 Kişilik Mutfak Masası, Teddy Sandalye, Yuvarlak Mdf Masa, 90 X 90</h4>
+                <h4>ETek Kanat Açılır Mdf Masa & Vegas Düğün Sandalyesi</h4>
                 <h2 class="price">8.900,00 TL</h2>
                 <input type="number" id="quantity-17" value="1"> <!-- Input field for quantity -->
                 <button class="normal addCart" onclick="handleAddToCart(17)">Sepete Ekle</button>
                 
                 <h4>Ürün Açıklaması:</h4>
-                <span>Enkare Elisa Takım 4 Sandalye 1 Masadan oluşmaktadır. <br>
+                <span>Dar Alanlar İçin Pratik Çözüm!
+
+                    ◻️ Tek Kanat Açılır MDF Masa 68x90 💫
+                    Küçük alanlar için büyük konfor! Şık ve kullanışlı MDF masamız, dar alanları fonksiyonel hale getirir. Hem yemek masası hem de çalışma masası olarak ideal.
+                    
+                    🪑 1. Sınıf Plastik, Vegas Düğün Sandalyesi 🪑
+                    Dayanıklı ve estetik tasarımıyla dikkat çeken Vegas düğün sandalyesi, konforlu oturma deneyimi sunar. Her türlü mekan için mükemmel bir seçim!
+                    
+                    Dar alanlar için büyük çözümler sunuyoruz! 🌿 <br>
 
                      <strong>Masa;</strong> <br>
                     
