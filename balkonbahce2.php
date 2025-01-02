@@ -17,6 +17,8 @@ else{
     echo "<a href='kayit.php'>Kayıt ol</a>";
 }*/
 
+
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
