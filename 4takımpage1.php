@@ -103,6 +103,7 @@ display: block;
         } else {
             echo "<a href='giris.php'>Giriş</a>";
         }
+
         
         ?>
         </a>
