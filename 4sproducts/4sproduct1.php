@@ -149,8 +149,7 @@ display: block;
                         <img src="../img/4kişilik fotolar/4.1.4.jpg" width="100%" class="small-img" alt="">
                     </div>
                 </div>
-            </div>
-            <div class="single-pro-details">
+<div class="single-pro-details">
                 <h6><a href="../4takımpage1.php" style="text-decoration: none; color: black;">Mağaza</a> / <a href="../4takımpage1.php" style="text-decoration: none; color: black;">4 Kişilik İç Mekan Takımlar</a></h6>
                 <h4>Beyaz Elisa Masa Sandalye Takımı, 4 Kişilik Mutfak Masası, Teddy Sandalye, Yuvarlak Mdf Masa, 90 X 90</h4>
                 <h2 class="price">8.900,00 TL</h2>
@@ -177,7 +176,6 @@ display: block;
                     Metaller statik fırın boyalıdır.  <br>
                     </span>
             </div>
-
         </section>
 
         <section id="product1" class="section-p1">
