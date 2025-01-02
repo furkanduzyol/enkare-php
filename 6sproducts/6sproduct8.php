@@ -149,13 +149,15 @@ display: block;
             </div>
             <div class="single-pro-details">
                 <h6><a href="../4takımpage1.php" style="text-decoration: none; color: black;">Mağaza</a> / <a href="../6takımpage1.php" style="text-decoration: none; color: black;">6 Kişilik İç Mekan Takımlar</a></h6>
-                <h4>Beyaz Elisa Masa Sandalye Takımı, 4 Kişilik Mutfak Masası, Teddy Sandalye, Yuvarlak Mdf Masa, 90 X 90</h4>
+                <h4>Y Ayaklı Gloss Masa & Olimpus Sandalye</h4>
                 <h2 class="price">8.900,00 TL</h2>
                 <input type="number" id="quantity-33" value="1"> <!-- Input field for quantity -->
                 <button class="normal addCart" onclick="handleAddToCart(33)">Sepete Ekle</button>
                 
                 <h4>Ürün Açıklaması:</h4>
-                <span>Enkare Elisa Takım 4 Sandalye 1 Masadan oluşmaktadır. <br>
+                <span>vinizin şıklığını artırmak için mükemmel bir set! Bu modern ve zarif yemek alanı, metal ayaklı Y Ayaklı Gloss Masa ve Babyface kumaşıyla konfor sunan Olimpus Sandalye ile tasarlandı.
+
+                    Masa ve sandalyelerin nikelaj kaplamalı ayakları, her iki parçaya da lüks bir dokunuş katıyor. Hem salon hem de mutfak için uygun olan bu set, evinize hem işlevsellik hem de estetik kazandırıyor. 💫 <br>
 
                      <strong>Masa;</strong> <br>
                     
