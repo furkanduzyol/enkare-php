@@ -4,7 +4,7 @@ include("baglanti.php");
 
 $username_err = "";
 $email_err = "";
-$parola_err = "";
+$parola_err = ""; 
 
 $boolean = true;
 if(isset($_POST["kaydet"])){
