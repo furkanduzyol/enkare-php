@@ -9,7 +9,10 @@ if(isset($_SESSION["kullaniciadi"])){
     echo "<br>";
     echo "<a href='cikis.php'>Çıkış yap</a>";
 }
-else{
+else{  
+
+
+
     echo "Giriş yapmadınız.";
     echo "<br>";
     echo "<a href='giris.php'>Giriş yap</a>";
