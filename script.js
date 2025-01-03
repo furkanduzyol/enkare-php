@@ -83,6 +83,7 @@ const products = [
         "price": 5499.00,
         "image": "img/4kişilik fotolar/4.11.1.jpg"
     },
+    
     {
         "id": 12,
         "name": "Siyah Ayaklı Küçük Mdf Masa, Açılabilir Mutfak Masası",
@@ -95,6 +96,7 @@ const products = [
         "price": 8900.00,
         "image": "img/4kişilik fotolar/4.13.1.jpg"
     },
+    
     {
         "id": 14,
         "name": "Elisa Masa Sandalye Takımı, 4 Kişilik Mutfak Masası",
