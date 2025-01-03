@@ -17,8 +17,6 @@ session_start();
 
         <link rel="stylesheet" href="../style.css">
         <style>
-
-
             
             
 /* Style for the dropdown container */
