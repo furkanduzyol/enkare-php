@@ -66,16 +66,21 @@ if(isset($_POST["kaydet"])){
     else
     {
     try {
-        $sorgu = "INSERT INTO kullanicilar (kullanici_adi,email,parola) VALUES ('$kullaniciadi','$email','$parola')";
-        $sonuc = mysqli_query($baglanti, $sorgu);
+       $kullaniciadi = mysqli_real_escape_string($baglanti, $kullaniciadi);
+$email = mysqli_real_escape_string($baglanti, $email);
+$parola = mysqli_real_escape_string($baglanti, $parola);
 
-        if ($sonuc) {
-            echo '<div class="alert alert-success" role="alert">
+// Sorguyu çalıştır
+$sorgu = "INSERT INTO kullanicilar (kullanici_adi, email, parola) VALUES ('$kullaniciadi', '$email', '$parola')";
+$sonuc = mysqli_query($baglanti, $sorgu);
+
+if ($sonuc) {
+    echo '<div class="alert alert-success" role="alert">
      Kayıt başarılı bir şekilde eklendi.
     </div>';
-        } else {
-            throw new Exception('Kayıt eklenirken bir problem oluştu.');
-        }
+} else {
+    throw new Exception('Kayıt eklenirken bir problem oluştu.');
+}
     } catch (Exception $e) {
         echo '<div class="alert alert-danger" role="alert">
        Böyle bir kullanıcı bulunuyor farklı bir kullanıcı adı seçin.
