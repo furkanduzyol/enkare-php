@@ -20,8 +20,6 @@ session_start();
 
 
             
-
-            
 /* Style for the dropdown container */
 .user-dropdown {
 position: relative;
