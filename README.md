@@ -5,4 +5,4 @@ For the back-end, I employed Node.js and PHP.
 
 Additionally, I integrated Iyzico for payment processing and implemented an e-posta form submission feature.
 
-You can also use the previous html version of the site from [here]([https://furkanduzyol.github.io/Enkare-E-Commerce-Website/cart.html#](https://furkanduzyol.github.io/Enkare-E-Commerce-Website/index.html))
+You can also use the previous html version from [here](https://furkanduzyol.github.io/Enkare-E-Commerce-Website/index.html)
