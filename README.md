@@ -3,6 +3,6 @@ You can view the website's interface from this [link](https://github.com/Full-St
 For the front-end, I utilized HTML, CSS (with Bootstrap as the framework), Next.js, and JavaScript.
 For the back-end, I employed Node.js and PHP.
 
-Additionally, I integrated Iyzico for payment processing and implemented an e-posta form submission feature.
+Additionally, I integrated Iyzico for payment processing and implemented an e-mail form submission feature.
 
 You can also use the previous html version from [here](https://furkanduzyol.github.io/Enkare-E-Commerce-Website/index.html)
